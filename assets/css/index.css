@@ -28,7 +28,7 @@ background: #E0EBEB;
 }
 
 p, h1, h2, h3, .secondary-inner-header {
-	margin: auto 150px;	
+	margin: auto 150px;
 }
 
 p {
@@ -42,8 +42,8 @@ h1 {
 	color: #145252;
 	font-size: 32px;
 	font-weight: bold;
-	padding: 50px 0px 25px 0px;	
-}	
+	padding: 50px 0px 25px 0px;
+}
 
 h2 {
 	color: white;
@@ -56,7 +56,7 @@ h3 {
 	color: #145252;
 	font-size: 18px;
 	font-weight: bold;
-	padding-top: 15px;		
+	padding-top: 15px;
 	padding-bottom: 15px;
 }
 
@@ -94,11 +94,12 @@ button {
 }
 
 .header {
-	background-image: url(../img/header_image.jpg);
+	background-image: url(../img/img_ing_gastronomica.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% auto;
-	background-position: center -80px;
+	background-position: center -135px;
 	background-color: #1d1d1d;
+	box-shadow: inset 0 0 0 1000px rgba(0,0,0,.15);
 }
 
 .inner-header {
@@ -112,7 +113,7 @@ button {
 
 #twitter-logo img {
 	width: 30px;
-	height: 25px;
+	height: 30px;
 }
 
 #twitter-logo:hover {
@@ -145,7 +146,7 @@ button {
 }
 
 .secondary-text {
-	padding-bottom: 40px;	
+	padding-bottom: 40px;
 }
 
 .list-text h2 {
@@ -198,7 +199,7 @@ button {
 }
 
 #laboratories {
-	padding-bottom: 30px;	
+	padding-bottom: 30px;
 }
 
 .container {
@@ -279,7 +280,7 @@ button {
 @media only screen and (max-width : 1200px) {
 
 	p, h1, h2, h3, .secondary-inner-header {
-		margin: auto 100px;	
+		margin: auto 100px;
 	}
 
 .header {
@@ -296,7 +297,7 @@ button {
 @media only screen and (max-width : 800px) {
 
 	p, h1, h2, h3, .secondary-inner-header{
-		margin: auto 30px;	
+		margin: auto 30px;
 	}
 
 	.button-collection {
@@ -355,7 +356,7 @@ button {
 
 	h1 {
 		font-size: 24px;
-	}	
+	}
 
 	h2 {
 		font-size: 20px;
